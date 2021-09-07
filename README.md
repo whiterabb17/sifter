@@ -104,7 +104,7 @@
 
 <h2>Menu:</h2>
 <p>
-<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/anon.png">
+<img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/anon.png">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -403,7 +403,7 @@ use a regular user and give permissions only when needed.</em></strong>
 ---------------------------------------------------------------------------------------------------------------------
 
 <br />
-<img align="middle" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/help.png">
+<img align="middle" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/help.png">
 <br />
 
 ---------------------------------------------------------------------------------------------------------------------
