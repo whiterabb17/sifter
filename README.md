@@ -1,12 +1,12 @@
-<img align="left" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet"><a href="https://www.codefactor.io/repository/github/s1l3nt78/sifter"><img align="right" src="https://www.codefactor.io/repository/github/s1l3nt78/sifter/badge" alt="CodeFactor" /></a><br/>
+<img align="left" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet"><!--<a href="https://www.codefactor.io/repository/github/whiterabb17/sifter">--><img align="right" src="https://www.codefactor.io/repository/github/whiterabb17/sifter/badge" alt="CodeFactor" /></a><br/>
 <p align="center"><img align="center" src="https://img.shields.io/badge/-Oracle-violet"></p>
 <br />
 <p align="center">
-	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/sifter.png">
+	<img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/sifter.png">
 <br>
-  	<img align="center" src="https://img.shields.io/github/issues/s1l3nt78/sifter">
-  	<img align="center" src="https://img.shields.io/github/forks/s1l3nt78/sifter">
-  	<img align="center" src="https://img.shields.io/github/stars/s1l3nt78/sifter">		  
+  	<img align="center" src="https://img.shields.io/github/issues/whiterabb17/sifter">
+  	<img align="center" src="https://img.shields.io/github/forks/whiterabb17/sifter">
+  	<img align="center" src="https://img.shields.io/github/stars/whiterabb17/sifter">		  
 <br>
 	<img align="center" src="https://img.shields.io/badge/@Codename:-Sapphire-violet"><br />
 	<img align="center" src="https://img.shields.io/badge/Version-12.3-red">
@@ -57,10 +57,10 @@
 <!--	@Revision: 3
 -->
 <br>
-<em>[<strong>Sapphire's</strong>] latest release's zip package can be downloaded from <a href="https://github.com/s1l3nt78/sifter/archive/master.zip"><strong>here</strong></a></em>
-<br />
-<em>[<strong>Sapphire's</strong>] latest .deb package is also available for download from <a href="https://github.com/s1l3nt78/sifter/releases/download/12/sifter_12.deb"><strong>here</strong></a></em>
-<br />
+<em>[<strong>Sapphire's</strong>] latest release's zip package can be downloaded from <a href="https://github.com/whiterabb17/sifter/archive/master.zip"><strong>here</strong></a></em>
+<br /><!--
+<em>[<strong>Sapphire's</strong>] latest .deb package is also available for download from <a href="https://github.com/whiterabb17/sifter/releases/download/12/sifter_12.deb"><strong>here</strong></a></em>
+--><br />
 <em>Older Releases can be found <a href="https://github.com/s1l3nt78/sifter/archive/"><strong>here</strong></a></em>
 <br>
 <br>
@@ -103,7 +103,7 @@
 
 <h2>Menu:</h2>
 <p>
-<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/anon.png">
+<img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/anon.png">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -163,21 +163,21 @@ use a regular user and give permissions only when needed.</em></strong>
 
 # Installation:
 
-	[!] For oneliner install (Deb Package), copy and paste the following code into a terminal:
+<!--	[!] For oneliner install (Deb Package), copy and paste the following code into a terminal:
 	*
 	$ wget https://github.com/s1l3nt78/sifter/releases/download/12/sifter_12.deb; sudo dpkg -i sifter_12.deb; sifter
-
+-->
 
 	[!] For oneliner install (source), copy and paste the following into a terminal:
 	*
-	$ git clone https://github.com/s1l3nt78/sifter.git && cd sifter && bash install.sh
+	$ git clone https://github.com/whiterabb17/sifter.git && cd sifter && bash install.sh
 
-
+<!--
 	[!] Sifter Plugins can be found at https://github.com/Sifter-Ex
 	[!] To install Sifter with plugins run:
 	*
-	$ git clone --recursive https://github.com/s1l3nt78/sifter; cd sifter; bash install.sh
-
+	$ git clone --recursive https://github.com/whiterabb17/sifter; cd sifter; bash install.sh
+-->
 ----------------------------------------------------------------------------------------------------------------------
 
 # Modules:
@@ -402,11 +402,11 @@ use a regular user and give permissions only when needed.</em></strong>
 ---------------------------------------------------------------------------------------------------------------------
 
 <br />
-<img align="middle" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/help.png">
+<img align="middle" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/help.png">
 <br />
 
 ---------------------------------------------------------------------------------------------------------------------
-
+<!--
 # Other Projects
 <br />
 All information on projects in development can be found <a href="https://s1l3nt78.github.io">here</a>.
@@ -423,5 +423,5 @@ For ideas or collaboration requests on future projects., contact details can be 
 - <a href="https://s1l3nt78.github.io/TigerShark">TigerShark</a> = Multi-Tooled Phishing Framework</em>
 <br />
 <br />
-
+-->
 	  <!--#############           VGhlIERlYWQgQnVubnkgQ29sbGVjdGl2ZQ==           #############--!>
