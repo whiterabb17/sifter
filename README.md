@@ -30,12 +30,12 @@
  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; *Because enumeration is key*
 <br>
 <br>
-
+<!--
 ---------------------------------------------------------------------------------------------------------------------
 
 ## &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; Working on a GUI Frontend for windows
 ## &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; using Kali WSL2. <a href="https://github.com/s1l3nt78/SifterCS"><strong>SifterCS</strong></a>
-
+-->
 ------------------------------------------------------------------------
 
 # Notice
