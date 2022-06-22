@@ -71,12 +71,12 @@
 
 <details>
 	<summary><strong># Released Extensions</strong></summary>
-- <a href="https://github.com/Sifter-Ex/g">G</a> - Sifter's <em>g</em> extension gives a GUI overlay
+- <a href="https://github.com/whiterabb17/gPlug">G</a> - Sifter's <em>g</em> extension gives a GUI overlay
 <br />&emsp;	'--> Built on top of <a href="https://github.com/GitSquared/edex-ui">eDEX-UI</a><br />
-- <a href="https://github.com/Sifter-Ex/f">F</a> - Sifter's <em>f</em> extension provides the DanderFuzz Exploitational Plugin for Sifter
+- <a href="https://github.com/whiterabb17/fPlug">F</a> - Sifter's <em>f</em> extension provides the DanderFuzz Exploitational Plugin for Sifter
 <br />&emsp; '--> Framework created by the <a href="#">EquationGroup</a> courtesy of <a href="#">The Shadow Brokers</a><br />
-  - <a href="https://github.com/Sifter-Ex/mPlug">M</a> - Sifter's <em>m</em> extension provided malware analysis tools.<br />
-  - <a href="https://github.com/Sifter-Ex/cPlug">C</a> - Sifter's <em>c</em> extension is just a small script allowing CobaltStrike to be added to exploitation frameworks.<br />
+  - <a href="https://github.com/whiterabb17/mPlug">M</a> - Sifter's <em>m</em> extension provided malware analysis tools.<br />
+  - <a href="https://github.com/whiterabb17/cPlug">C</a> - Sifter's <em>c</em> extension is just a small script allowing CobaltStrike to be added to exploitation frameworks.<br />
 &emsp;&emsp;	<em>(A copy of CobaltStrike will <strong>NOT</strong> be provided, <strong>You must provide your own</strong>)</em>
 </details>
 
