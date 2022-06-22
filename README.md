@@ -53,18 +53,18 @@
 # Release
 
 	@Codename: Sapphire
-	@Version : 12.2
+	@Version : 12.5
 <!--	@Revision: 3
--->
+
 <br>
 <em>[<strong>Sapphire's</strong>] latest release's zip package can be downloaded from <a href="https://github.com/whiterabb17/sifter/archive/master.zip"><strong>here</strong></a></em>
-<br /><!--
+<br />< !--
 <em>[<strong>Sapphire's</strong>] latest .deb package is also available for download from <a href="https://github.com/whiterabb17/sifter/releases/download/12/sifter_12.deb"><strong>here</strong></a></em>
---><br />
+-- ><br />
 <em>Older Releases can be found <a href="https://github.com/s1l3nt78/sifter/archive/"><strong>here</strong></a></em>
 <br>
 <br>
-
+-->
 ---------------------------------------------------------------------------------------------------------------------
 
 # Sifter Plugins
