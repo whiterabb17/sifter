@@ -35,7 +35,7 @@
 
 ## &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; Working on a GUI Frontend for windows
 ## &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp; using Kali WSL2. <a href="https://github.com/s1l3nt78/SifterCS"><strong>SifterCS</strong></a>
--->
+
 ------------------------------------------------------------------------
 
 # Notice
@@ -47,7 +47,7 @@
 
 	[!] Or if you are a developer and would like your program added just submit an issue with the link
 	    and ill check it out and if it fits, I'll make the addition with 24-48hrs
-
+-->
 ---------------------------------------------------------------------------------------------------------------------
 
 # Release
