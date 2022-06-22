@@ -19,7 +19,7 @@ else
 	read TSQ
 	if [[ ${TSQ} == 'y' ]]; then
 		cd /opt
-		sudo git clone https://github.com/s1l3nt78/TigerShark.git
+		sudo git clone https://github.com/whiterabb17/TigerShark.git
 		sudo chown $USER:$USER -R TigerShark
 		cd TigerShark
 		chmod +x install.sh
