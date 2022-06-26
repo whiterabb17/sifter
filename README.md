@@ -23,7 +23,7 @@
 			 ░    ░    ░   ░  ░  ░   ▒ ░ ░ ░      ░         ░     ░░   ░  ░    ░    ░   
 			  ░    ░    ░        ░   ░                      ░  ░   ░       ░    ░    ░  
 			  ░    ░    ░                                                  ░    ░    ░   
- &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; <strong><em>s1l3nt78</em></strong>
+ &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; <strong><em>s1l3nt78 | whiterabb17</em></strong>
 <br>
  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; <strong><em>~The Dead Bunny Collective~</em></strong>
 <br />
