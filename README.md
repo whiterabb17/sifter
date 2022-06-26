@@ -101,6 +101,23 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
+# Installation:
+
+<!--	[!] For oneliner install (Deb Package), copy and paste the following code into a terminal:
+	*
+	$ wget https://github.com/s1l3nt78/sifter/releases/download/12/sifter_12.deb; sudo dpkg -i sifter_12.deb; sifter
+-->
+
+	[!] For oneliner install (source), copy and paste the following into a terminal:
+	*
+	$ git clone https://github.com/whiterabb17/sifter.git && cd sifter && bash install.sh
+
+	[!] To install Sifter with plugins run:
+	*
+	$ git clone --recursive https://github.com/whiterabb17/sifter; cd sifter; bash install.sh
+	
+----------------------------------------------------------------------------------------------------------------------
+
 <h2>Menu:</h2>
 <p>
 <img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/anon.png">
@@ -160,24 +177,6 @@ use a regular user and give permissions only when needed.</em></strong>
  - instead of <strong>https;//target.com</strong>
 
 ---------------------------------------------------------------------------------------------------------------------
-
-# Installation:
-
-<!--	[!] For oneliner install (Deb Package), copy and paste the following code into a terminal:
-	*
-	$ wget https://github.com/s1l3nt78/sifter/releases/download/12/sifter_12.deb; sudo dpkg -i sifter_12.deb; sifter
--->
-
-	[!] For oneliner install (source), copy and paste the following into a terminal:
-	*
-	$ git clone https://github.com/whiterabb17/sifter.git && cd sifter && bash install.sh
-
-	[!] Sifter Plugins can be found at https://github.com/Sifter-Ex
-	[!] To install Sifter with plugins run:
-	*
-	$ git clone --recursive https://github.com/whiterabb17/sifter; cd sifter; bash install.sh
-	
-----------------------------------------------------------------------------------------------------------------------
 
 # Modules:
 * Click to Expand
