@@ -10,3 +10,15 @@
 [submodule "plugins/gPlug"]
 	path = plugins/gPlug
 	url = https://github.com/whiterabb17/gPlug
+[submodule "gPlug"]
+	path = gPlug
+	url = https://github.com/whiterabb17/gPlug
+[submodule "mPlug"]
+	path = mPlug
+	url = https://github.com/whiterabb17/mPlug
+[submodule "fPlug"]
+	path = fPlug
+	url = https://github.com/whiterabb17/fPlug
+[submodule "cPlug"]
+	path = cPlug
+	url = https://github.com/whiterabb17/cPlug
