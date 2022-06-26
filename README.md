@@ -172,12 +172,11 @@ use a regular user and give permissions only when needed.</em></strong>
 	*
 	$ git clone https://github.com/whiterabb17/sifter.git && cd sifter && bash install.sh
 
-<!--
 	[!] Sifter Plugins can be found at https://github.com/Sifter-Ex
 	[!] To install Sifter with plugins run:
 	*
 	$ git clone --recursive https://github.com/whiterabb17/sifter; cd sifter; bash install.sh
--->
+	
 ----------------------------------------------------------------------------------------------------------------------
 
 # Modules:
