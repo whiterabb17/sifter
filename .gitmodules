@@ -1,12 +1,12 @@
 [submodule "plugins/mPlug"]
 	path = plugins/mPlug
-	url = https://github.com/Sifter-ex/mPlug
+	url = https://github.com/whiterabb17/mPlug
 [submodule "plugins/fPlug"]
 	path = plugins/fPlug
-	url = https://github.com/Sifter-Ex/fPlug
+	url = https://github.com/whiterabb17/fPlug
 [submodule "plugins/cPlug"]
 	path = plugins/cPlug
-	url = https://github.com/Sifter-Ex/cPlug
+	url = https://github.com/whiterabb17/cPlug
 [submodule "plugins/gPlug"]
 	path = plugins/gPlug
-	url = https://github.com/Sifter-Ex/gPlug
+	url = https://github.com/whiterabb17/gPlug
