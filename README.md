@@ -1,3 +1,7 @@
+# Plugin install fixed
+Use: git clone --recursive https://github.com/whiterabb17/sifter
+To clone with all plugins
+
 <img align="left" src="https://img.shields.io/badge/Author-s1l3nt78 aka whiterabb17-blueviolet"> <!-- <a href="https://www.codefactor.io/repository/github/whiterabb17/sifter"><img align="right" src="https://www.codefactor.io/repository/github/whiterabb17/sifter/badge" alt="CodeFactor" /></a> --> <br/>
 <p align="center"><img align="center" src="https://img.shields.io/badge/-Oracle-violet"></p>
 <br />
