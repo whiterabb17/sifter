@@ -17,7 +17,7 @@ To clone with all plugins
   	<img align="center" src="https://img.shields.io/github/stars/whiterabb17/sifter">		  
 <br>
 	<img align="center" src="https://img.shields.io/badge/@Codename:-Sapphire-violet"><br />
-	<img align="center" src="https://img.shields.io/badge/Version-12.3-red">
+	<img align="center" src="https://img.shields.io/badge/Version-12.6-red">
 <!--	<img align="center" src="https://img.shields.io/badge/Revision--green">
 --></p>
 
@@ -31,7 +31,7 @@ To clone with all plugins
 			 ░    ░    ░   ░  ░  ░   ▒ ░ ░ ░      ░         ░     ░░   ░  ░    ░    ░   
 			  ░    ░    ░        ░   ░                      ░  ░   ░       ░    ░    ░  
 			  ░    ░    ░                                                  ░    ░    ░   
- &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; <strong><em>s1l3nt78 | whiterabb17</em></strong>
+ &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; <strong><em>s1l3nt78 | whiterabb17</em></strong>
 <br>
  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; <strong><em>~The Dead Bunny Collective~</em></strong>
 <br />
@@ -61,7 +61,7 @@ To clone with all plugins
 # Release
 
 	@Codename: Sapphire
-	@Version : 12.5
+	@Version : 12.6
 <!--	@Revision: 3
 
 <br>
@@ -93,13 +93,8 @@ To clone with all plugins
 # Updates:
 ## Additions:
 <details>
-	<summary><strong>#__ Version: 12.3 _|_ Sapphire __# </strong></summary><br />
-- <strong>Blacknet</strong> - Allows you to search for .onion sites by keywords.<br />
-- <strong>Emagnet</strong> - Capture email addresses and passwords from leaked databases uploaded on pastebin.<br />
-- <strong>hahwul | Phoenix</strong> - hahwul's webtools<br />
-- <strong>ScriptHunter</strong> - Hunter JavaScript within websites<br />
-- <strong>TorBot</strong> - Onion URL info gatherer & crawler<br />
-- <strong>TacticalEK</strong> - Tactical exploitation toolkit to assist penetration testers during their assignments.<br />
+	<summary><strong>#__ Version: 12.6 _|_ Sapphire __# </strong></summary><br />
+- <strong>PhoneInfoga</strong> - Advanced information gathering & OSINT framework for phone numbers
 <br />
 - Typing <strong>info</strong> into any menu will bring up the Module Information Screen.<br />
 - Typing <strong>session</strong> into any menu will start a new Sifter session to run concurrently.<br />

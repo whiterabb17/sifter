@@ -136,9 +136,9 @@ t1(){
 		sudo python2 -m pip install -r requirements.txt
 	fi
 }
-##############
-# 2 # Maryam #
-##############
+#################
+# 2 # OsintGram #
+#################
 t2(){
 	echo -e "${W}===========================================================================================${NC}"
 	echo -e "${YLW}Checking for OSINTGram ${NC}"
@@ -2025,6 +2025,26 @@ t85(){
 		sudo ./env/bin/python3 -m pip install -r requirements.txt
 	fi
 }
+
+####################
+# 86 # PhoneInfoga #
+####################
+t86(){
+	echo -e "${W}===========================================================================================${NC}"
+	echo -e "${YLW}Checking for PhoneInfoga ${NC}"
+	if [[ -d '/opt/phoneinfoga' ]]; then
+		echo -e "${ORNG}"
+		figlet -f mini "PhoneInfoga is already installed"
+		echo -e "${NC}"
+		cd /opt/phoneinfoga
+		sudo git fetch; sudo git pull
+	else
+		cd /opt
+		sudo wget https://github.com/sundowndev/phoneinfoga/releases/download/v2.6.0/phoneinfoga_Linux_x86_64.tar.gz
+		sudo tar -xzvf phoneinfoga*
+		sudo chown $USER:$USER -R phoneinfoga
+	fi
+}
 #######################################################################################################################################
 ####################
 # Ext # Plugin Installation #
@@ -2168,10 +2188,13 @@ t80							# mosint
 t81							# TorBot
 t82							# TacticalEK
 t83							# ScriptHunter
+t84							# EMagnet
+t85							# Blacknet
+t86							# PhoneInfoga
 #########################################---------------
 plugExt						# Plugin Extentions
 #########################################---------------
-misc							# Removals
+misc						# Removals
 #########################################---------------
 ########################################################
 ##  Move Sifter executable to local path (/usr/sbin)  ##
@@ -2195,6 +2218,6 @@ echo -e "${RED}=================================================================
 ######################               VGhlIERlYWQgQnVubnkgQ2x1Yg==             ########################
 ######################################################################################################
 echo -e "${YLW}############################"                                             ########################
-echo -e "${YLW}# ${ORNG}Incoming Version  :${LP} 12.3 ${YLW}#${NC}"                          ##    VERSION INFO    ##
+echo -e "${YLW}# ${ORNG}Incoming Version  :${LP} 12.6 ${YLW}#${NC}"                          ##    VERSION INFO    ##
 #echo -e "${YLW}# ${ORNG}Incoming Revision : ${LP}r3 ${YLW}#"                                       ##    UPDATE CHECK    ##
 echo -e "${YLW}############################${NC}"                                         ########################
