@@ -31,7 +31,7 @@ To clone with all plugins
 			 ░    ░    ░   ░  ░  ░   ▒ ░ ░ ░      ░         ░     ░░   ░  ░    ░    ░   
 			  ░    ░    ░        ░   ░                      ░  ░   ░       ░    ░    ░  
 			  ░    ░    ░                                                  ░    ░    ░   
- &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; <strong><em>s1l3nt78 | whiterabb17</em></strong>
+ &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; <strong><em>s1l3nt78 | whiterabb17</em></strong>
 <br>
  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; <strong><em>~The Dead Bunny Collective~</em></strong>
 <br />
@@ -95,7 +95,7 @@ To clone with all plugins
 <details>
 	<summary><strong>#__ Version: 12.6 _|_ Sapphire __# </strong></summary><br />
 - <strong>PhoneInfoga</strong> - Advanced information gathering & OSINT framework for phone numbers
-<br />
+<br /><br/>
 - Typing <strong>info</strong> into any menu will bring up the Module Information Screen.<br />
 - Typing <strong>session</strong> into any menu will start a new Sifter session to run concurrently.<br />
 - All Results can now be exported to Desktop and a backup zip package is created and time stamped.<br />
