@@ -11,7 +11,7 @@ echo -e "${ORNG}"
 figlet -f mini "Spiderfoot"
 echo -e "${NC}"
 cd /opt/spiderfoot
-xterm -e sudo python3.8 sf.py -l 127.0.0.1:5001 &
+xterm -e sudo python3 sf.py -l 127.0.0.1:5001 &
 sleep 5
 xterm -e firefox http://127.0.0.1:5001 &
 sleep 5

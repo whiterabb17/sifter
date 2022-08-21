@@ -11,7 +11,7 @@ echo -e "${RED}"
 figlet -f mini "OWASP-Nettacker"
 echo -e "${NC}"
 cd /opt/OWASP-Nettacker
-sudo python3.8 nettacker.py -W
+sudo python3 nettacker.py -W
 sleep 2
 echo -e "${W}======================================================${NC}"
 sleep 2

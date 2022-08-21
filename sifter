@@ -1149,7 +1149,7 @@ routertools(){
         sudo ./mthread
     elif [[ ${RTT} == "2" ]]; then
 	    cd /root/routersploit
-        sudo python3.8 rsf.py
+        sudo python3 rsf.py
     elif [[ ${RTT} == "3" ]]; then
 	    sudo airgeddon
     elif [[ ${RTT} == "4" ]]; then
