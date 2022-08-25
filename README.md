@@ -94,7 +94,7 @@ To clone with all plugins
 ## Additions:
 <details>
 	<summary><strong>#__ Version: 12.6 _|_ Sapphire __# </strong></summary><br />
-- <strong>PhoneInfoga</strong> - Advanced information gathering & OSINT framework for phone numbers
+- <strong>PhoneInfoga</strong> - Advanced information gathering & OSINT framework for phone numbers<br />
 - <strong>Infoga</strong> - Advanced information gathering & OSINT framework for singular/domain eMail addresses
 <br /><br/>
 - Typing <strong>info</strong> into any menu will bring up the Module Information Screen.<br />
