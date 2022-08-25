@@ -95,6 +95,7 @@ To clone with all plugins
 <details>
 	<summary><strong>#__ Version: 12.6 _|_ Sapphire __# </strong></summary><br />
 - <strong>PhoneInfoga</strong> - Advanced information gathering & OSINT framework for phone numbers
+- <strong>Infoga</strong> - Advanced information gathering & OSINT framework for singular/domain eMail addresses
 <br /><br/>
 - Typing <strong>info</strong> into any menu will bring up the Module Information Screen.<br />
 - Typing <strong>session</strong> into any menu will start a new Sifter session to run concurrently.<br />
@@ -192,6 +193,7 @@ use a regular user and give permissions only when needed.</em></strong>
 - <a href="https://github.com/wuseman/Emagnet">Emagnet</a><br />
 - <a href="https://github.com/Raikia/CredNinja">CredNinja</a><br />
 - <a href="https://github.com/lockfale/OSINT-Framework">OSINT-Framework</a>
+- <a href="https://github.com/m4ll0k/Infoga">Infoga</a><br />
 </details>
 
 <details>
@@ -199,6 +201,7 @@ use a regular user and give permissions only when needed.</em></strong>
 <strong>#Targeted Information Gatherers</strong>
 </summary>
 - <a href="https://github.com/saeeddhqan/Maryam">Maryam</a><br />
+- <a href="https://github.com/s0md3v/phoneinfoga">PhoneInfoga</a><br />
 - <a href="https://github.com/thewhiteh4t/seeker">Seeker</a><br />
 - <a href="https://github.com/sherlock-project/sherlock">Sherlock</a><br />
 - <a href="https://github.com/martinvigo/email2phonenumber">E2P (Email2Phone)</a><br />

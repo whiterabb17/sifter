@@ -160,7 +160,7 @@ phone_mods(){
 	echo -e " ${ORNG}3.${W} OSINTGram       ${ORNG}8.${W} GHunt ${NC}"
 	echo -e " ${ORNG}4.${W} Email2Phone     ${ORNG}9.${W} Mosint ${NC}"
 	echo -e " ${ORNG}5.${W} CardPwn    	   ${ORNG}10.${W} PhoneInfoga${NC}"
-    echo -e " ${ORNG}11.${W} Back"
+    echo -e " ${ORNG}11.${W} Infoga           ${ORNG}12.${W} Back ${NC}"
     echo -e " ${W}"
     echo -n " =============================#?: "
 	read PMM
@@ -185,6 +185,8 @@ phone_mods(){
 	elif [[ ${PMM} == "10" ]]; then
 		bash /opt/phoneinfoga serve
 	elif [[ ${PMM} == "11" ]]; then
+        bash /opt/sifter/modules/credmods/infoga.sh
+    elif [[ ${PMM} == "12" ]]; then
 		info_mods
 	elif [[ ${PMM} == "cd "* ]]; then
 		DCK=$(pwd)

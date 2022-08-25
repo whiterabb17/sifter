@@ -2045,6 +2045,29 @@ t86(){
 		sudo chown $USER:$USER -R phoneinfoga
 	fi
 }
+
+###############
+# 87 # Infoga #
+###############
+t87(){
+	echo -e "${W}===========================================================================================${NC}"
+	echo -e "${YLW}Checking for Infoga ${NC}"
+	if [[ -d '/opt/Infoga' ]]; then
+		echo -e "${ORNG}"
+		figlet -f mini "Infoga is already installed"
+		echo -e "${NC}"
+		cd /opt/Infoga
+		sudo git fetch; sudo git pull
+	else
+		cd /opt
+		sudo git clone https://github.com/m4ll0k/Infoga
+		sudo chown $USER:$USER -R Infoga
+		cd Infoga
+		python3 -m virtualenv env
+		./env/bin/python3 setup.py install
+		./env/bin/python3 -m pip install -r requirements.txt
+	fi
+}
 #######################################################################################################################################
 ####################
 # Ext # Plugin Installation #
@@ -2191,6 +2214,7 @@ t83							# ScriptHunter
 t84							# EMagnet
 t85							# Blacknet
 t86							# PhoneInfoga
+t87							# Infoga
 #########################################---------------
 plugExt						# Plugin Extentions
 #########################################---------------
