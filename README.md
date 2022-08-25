@@ -1,3 +1,8 @@
+# Note
+
+	Due to a lack of time - I will only be doing minimal maintenace.
+	No planned future updates for the time being
+
 # Plugin install fixed
 	
 	Use: git clone --recursive https://github.com/whiterabb17/sifter
