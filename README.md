@@ -5,7 +5,7 @@
 
 # Plugin install fixed
 	
-	Use: git clone --recursive https://github.com/whiterabb17/sifter
+	git clone --recursive https://github.com/whiterabb17/sifter
 
 To clone with all plugins
 
