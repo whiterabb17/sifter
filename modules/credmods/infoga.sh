@@ -18,7 +18,7 @@ if [[ ${SDC} == "s" ]]; then
     echo -e "${RED}Please enter the target email: ${NC}"
     read TAR
     CHOICE='--info '
-elif
+elif; then
     echo -e "${RED}Please enter the target domain: ${NC}"
     read TAR
     CHOICE='--domain '
